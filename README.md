@@ -9,5 +9,5 @@ Redux
 Hooks
 
 
-You can view the demo @ www.scarlettodo.netlify.app
+You can view the demo @ https://scarlettodo.netlify.app/
 
